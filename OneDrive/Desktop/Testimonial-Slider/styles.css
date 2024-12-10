@@ -1,0 +1,29 @@
+.testimony {
+        width: 500px;
+        height: 100px;
+        background-color: slateblue;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        min-width: 400px;
+        padding: 70px 20px;
+        margin: 5px;
+        color: white;
+        position: relative;
+        margin-left: 30%;
+        margin-top: 150px;
+}
+img {
+    border-radius: 160px;
+    width: 100px;
+    height: 100px;
+    margin-left: 190px;
+    margin-top: -120px;
+    margin-bottom: 60px;
+}
+.text, .username {
+    font-family: "Roboto", sans-serif;
+    line-height: 1.2;
+    font-size: medium;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
